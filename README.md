@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkarsh7893/Utkarsh7893/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkarsh7893/Utkarsh7893/output/pacman-contribution-graph.svg">
